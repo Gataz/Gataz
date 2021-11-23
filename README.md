@@ -1,10 +1,10 @@
-## Oiê! 👋 Sou o Rafael!
+## Hi! 👋 I'm "new" here!
 
-- 🔭 Atualmente estou em transição de carreira!
-- 🌱 Estudo ESW - atualmente no segundo período.
-- 🌱 Atualmente estudo CSS, HTML5, PHP e JavaScript.
-- 🤔 Aprendendo continuamente Python.
-- 😄 Pronouns: ele/dele
+- 🔭 Actually I'm in career transition!
+- 🌱 Studying ESW.
+- 🌱 Studying right now CSS, HTML5, PHP e JavaScript.
+- 🤔 Python continuous student.
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/Gataz">
