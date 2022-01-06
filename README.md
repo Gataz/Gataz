@@ -1,4 +1,4 @@
-## Hi! 👋 I'm "new" here!
+## Hi! 👋
 
 - 🔭 Actually I'm in career transition!
 - 🌱 Studying ESW.
