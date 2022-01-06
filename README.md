@@ -1,8 +1,7 @@
 ## Hi! 👋
 
-- 🔭 Actually I'm in career transition!
 - 🌱 Studying ESW.
-- 🌱 Studying right now CSS, HTML5, PHP e JavaScript.
+- 🌱 Studying right now CSS, HTML5 and JavaScript.
 - 🤔 Python continuous student.
 - 😄 Pronouns: he/him
 
